@@ -59,14 +59,3 @@ As you can see, the repo is still in its infancy. Here are some key things in th
 1. Queue questions
 2. Algorithms
 3. More questions in data structures, especially for graph, circular linked list, trees, heaps and hash.
-
-## Contributing
-
-Contributions are always welcomed.
-Feel free to raise new issues, file new PRs. Consider giving it a star and fork this repo!
-
-To follow the guidelines, refer to [Contributing.md](CONTRIBUTING.md)
-
-## License
-
-[MIT License](LICENSE)
